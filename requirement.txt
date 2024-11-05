@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+SQLAlchemy
+PyMySQL
+cryptography
+mysql-connector-python
+python-dotenv
+pydantic_settings
+asyncmy

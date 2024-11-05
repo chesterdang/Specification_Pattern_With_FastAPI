@@ -1,0 +1,1 @@
+from Core.Infrastructure.Repository.GenericRepository import GenericRepository
